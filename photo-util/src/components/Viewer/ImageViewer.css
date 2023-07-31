@@ -1,0 +1,12 @@
+.Viewer {
+    background-color: bisque;
+    height: 100vh;
+    width: 70vw;
+    padding: 2vh 2vw;
+}
+
+.Photo {
+    width: 100%;
+    height: 100%;
+    object-fit: scale-down;
+}

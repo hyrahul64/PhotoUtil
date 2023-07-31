@@ -1,0 +1,30 @@
+.ImageEditor {
+    background-color: bisque;
+    height: 100vh;
+    width: 30vw;
+    position: absolute;
+    top:0;
+    left: 70vw;
+    border-left: 1px solid;
+    align-items: center;
+}
+
+input,select {
+    margin: 2vh auto;
+    height: 7vh;
+    width: 50%;
+    border: 1px solid orange;
+    border-radius: 1vh;
+    display: block;
+    min-width: 10vw;
+}
+
+.navigator {
+    display: inline-flex;
+}
+
+button {
+    margin: 0 1vw 2vh 1vh;
+    width: 5vw;
+    height: 7vh;
+}
